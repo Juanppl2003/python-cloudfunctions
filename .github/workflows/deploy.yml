@@ -32,3 +32,4 @@ jobs:
           gcloud functions deploy http_hello_world --runtime python310 --trigger-http --entry-point http_hello_world --region us-central1 --allow-unauthenticated
 
 
+
